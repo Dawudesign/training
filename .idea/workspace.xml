@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d23d417-29b4-4a2c-90ab-00e6b2cfb0e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Shifumi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
